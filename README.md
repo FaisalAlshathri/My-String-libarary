@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @FaisalAlshathri
-- 👀 I’m interested in Game development,AI and Machine learning 
-- 🌱 I’m currently learning Unreal Engine UE5 
-- 💞️ I’m looking to collaborate on Game projects 
-- 📫 How to reach me faisal01fas@gmail.com
-
-<!---
-FaisalAlshathri/FaisalAlshathri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is my own custom implementation to standard string library of c and I expanded more functionality to solve more problems related to texts or file handling.
+this project was created on 2015 while the start of my programming learning jourany in university as extra practise in my free time.
