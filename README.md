@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaisalAlshathri
 - 👀 I’m interested in Game development,AI and Machine learning 
-- 🌱 I’m currently learning Machine learning 
-- 💞️ I’m looking to collaborate on AI projects 
+- 🌱 I’m currently learning unreal engine5 
+- 💞️ I’m looking to collaborate on Game projects 
 - 📫 How to reach me faisal01fas@gmail.com
 
 <!---
